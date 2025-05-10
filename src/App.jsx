@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./app.css";
+import "./App.css";
 import Home from "./Pages/Home";
 import Form from "./Pages/Form";
 
